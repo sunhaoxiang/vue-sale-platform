@@ -4,7 +4,7 @@
 ## 技术栈
 vue 2.0 + vue-router + vue-resource + lodash
 
-## 演示（PC端）
+## 演示
 <a href="http://shx89.com/vue-sale-platform/index.html">在线演示戳我</a>
 
 ## 本地运行
